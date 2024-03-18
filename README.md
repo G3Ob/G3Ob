@@ -1,6 +1,6 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in WebDesign and MachineLearning also in DataScience
-- 🌱 I’m currently learning ComputerScience currently
+- 🌱 I’m currently Studying ComputerScience
 - 📫 georgebrandusa4@gmail.com
 
 
